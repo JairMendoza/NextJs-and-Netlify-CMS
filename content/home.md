@@ -1,14 +1,15 @@
 ---
-title: Awesome kitties
-date: 2019-03-17T19:31:20.591Z
+title: Awesome Developers
+date: 2022-08-23T16:43:10.800Z
 cats:
-  - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
-    name: Grumpy cat (Tardar Sauce)
+  - description: Hans is a great developer with great skills.
+    name: Hans San
+  - description: Essau is another great developer but he forgot to bring me one
+      souvenir from "el bicho" >:c
+    name: Essau
+  - description: Luigi is a master chief  developer nothing more to comment.
+    name: Luigi
 ---
-Welcome to my awesome page about cats of the internet.
+Welcome to my awesome page about Bekind developers.
 
-This page is built with NextJS, and content is managed in Netlify CMS
+This page is built with NextJS, and content is managed in Netlify CMS! :D
